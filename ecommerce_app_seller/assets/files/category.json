@@ -1,0 +1,59 @@
+{
+  "categories": [
+    {
+      "name": "Women's Clothing",
+      "subcategory": ["Wedding & Event", "Tops & Sets", "Watches"]
+    },
+    {
+      "name": "Men Clothing & Fashion",
+      "subcategory": ["Outwear & Jackets", "Formal Dress", "Accessoires"]
+    },
+    {
+      "name": "Computer & Accessoires",
+      "subcategory": ["Laptop", "Gaming Pc", "Official Equipment"]
+    },
+    {
+      "name": "Automobile",
+      "subcategory": [
+        "Cars",
+        "Bikes",
+        "Motorcycles",
+        "Auto Parts",
+        "Car Electronics"
+      ]
+    },
+    {
+      "name": "Kids & Toys",
+      "subcategory": ["Shoes & Bags", "Baby Clothing", "Girls Toys"]
+    },
+    {
+      "name": "Sports",
+      "subcategory": ["Cycling", "Sneakers", "Swimming"]
+    },
+    {
+      "name": "Jewelery",
+      "subcategory": ["Neckalces", "Gold", "Earrings", "Rings", "Bracelets"]
+    },
+    {
+      "name": "Cellphone & Tab",
+      "subcategory": ["Smartphone", "Tablets", "Accessoires"]
+    },
+    {
+      "name": "Furniture",
+      "subcategory": ["Sofa", "Bed", "Home Textile", "Dining Room", "Bedroom"]
+    },
+    {
+      "name": "Shoes",
+      "subcategory": ["Men", "Women", "Kids", "Athletic Shoes", "Formal Shoes"]
+    },
+    {
+      "name": "Books",
+      "subcategory": [
+        "Fiction",
+        "Non-Fiction",
+        "Cook Books",
+        "Science & Technology"
+      ]
+    }
+  ]
+}
